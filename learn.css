@@ -1,0 +1,46 @@
+.head{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.abd{
+     position: absolute;
+     left: 11cm;
+     top: 2cm;
+}
+
+.dk{
+    position: absolute;
+    top: 6cm;
+    left: 11cm;
+    font-size: large;
+    font-weight: bold;   
+}
+
+.vk{
+    position: absolute;
+    top: 7cm;
+    left: 9cm;
+}
+
+.back{
+    position: absolute;
+    top: 18cm    ;
+    left: 11cm;
+    font-size: 40px;
+}
+
+.a{
+    position: absolute;
+    left: 10cm;
+    top: 10cm;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.ern{
+    position: absolute;
+    top: 11cm;
+    left: 10cm;
+}
